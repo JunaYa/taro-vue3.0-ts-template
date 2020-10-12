@@ -1,8 +1,8 @@
 {
-  "name": "mp-ai-writing-taro-vue-ts",
+  "name": "mp-taro-vue-ts",
   "version": "1.0.0",
   "private": true,
-  "description": "YSX",
+  "description": "taro-next + Vue3.0 + TypeScript",
   "templateInfo": {
     "name": "vue3-vuex",
     "typescript": true,
@@ -54,7 +54,7 @@
     "eslint-config-taro": "3.0.14",
     "eslint-plugin-vue": "^7.0.0-alpha.6",
     "stylelint": "9.3.0",
-    "typescript": "^3.7.0",
+    "typescript": "^4.0.3",
     "vue-loader": "^16.0.0-beta.3"
   }
 }

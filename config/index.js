@@ -1,7 +1,7 @@
 var path = require('path')
 const config = {
   // 项目名称
-  projectName: 'mp-ai',
+  projectName: 'mp-taro-vue-ts',
   // 项目创建日期
   date: '2020-10-12',
   // 设计稿尺寸
