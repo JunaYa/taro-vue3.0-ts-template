@@ -1,3 +1,6 @@
+// 
+// https://vuex.vuejs.org/guide/structure.html
+
 import { createStore } from 'vuex'
 import test from './test/index'
 const state = {
@@ -9,6 +12,7 @@ const store = createStore({
   modules: {
     test,
   },
+  strict: process.env.NODE_ENV !== 'production',
 })
 
 export default store
